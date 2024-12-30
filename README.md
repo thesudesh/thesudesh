@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Sudesh Acharya, a Software Developer from Nepal.<br>-  I'm currently learning Data Science, Python and Django.</p>
+<p align="left">I'm Sudesh Acharya, a Software Developer from Nepal.<br>I'm currently learning Data Science, Python and Django.</p>
 
 ###
 
